@@ -9,7 +9,7 @@ ft_strchr.c ft_strclr.c ft_strcmp.c ft_strcpy.c ft_strdel.c ft_strdup.c ft_streq
 ft_striteri.c ft_strjoin.c ft_strlcat.c ft_strlen.c ft_strmap.c ft_strmapi.c ft_strncat.c ft_strncmp.c\
 ft_strncpy.c ft_strnequ.c ft_strnew.c ft_strnstr.c ft_strrchr.c ft_strsplit.c ft_strstr.c ft_strsub.c\
 ft_strtrim.c ft_tolower.c ft_toupper.c my_ft_lettercount.c  my_ft_setyourchar.c my_ft_strcomp.c\
-my_ft_strim.c my_ft_strrev.c my_ft_wordcount.c my_ft_wordcrt.c
+my_ft_strim.c my_ft_strrev.c my_ft_wordcount.c my_ft_wordcrt.c ft_atoi_base.c ft_itoa_base.c
 
 
 all: $(NAME)
